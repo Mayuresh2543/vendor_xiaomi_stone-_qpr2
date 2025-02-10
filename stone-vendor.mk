@@ -212,7 +212,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/stone/proprietary/vendor/etc/libnfc-hal-st.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-hal-st.conf \
     vendor/xiaomi/stone/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/xiaomi/stone/proprietary/vendor/etc/mdss_dsi_panel_m17_38_0c_0a_fhdp_dsc_vid_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_panel_m17_38_0c_0a_fhdp_dsc_vid_mi.xml \
-    vendor/xiaomi/stone/proprietary/vendor/etc/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf \
     vendor/xiaomi/stone/proprietary/vendor/etc/perf/commonresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonresourceconfigs.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/perf/commonsysnodesconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonsysnodesconfigs.xml \
     vendor/xiaomi/stone/proprietary/vendor/etc/perf/perfboostsconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfboostsconfig.xml \
