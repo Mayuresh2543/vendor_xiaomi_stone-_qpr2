@@ -989,7 +989,6 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libtinyxml2_1 \
     libtrustedapploader \
-    libvendor.goodix.hardware.biometrics.fingerprint@2.1 \
     libvideofilter_only \
     libvideooptfeature \
     libvidhance \

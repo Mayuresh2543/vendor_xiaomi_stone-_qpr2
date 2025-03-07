@@ -17170,36 +17170,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libvendor.goodix.hardware.biometrics.fingerprint@2.1",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so",
-            ],
-            shared_libs: [
-                "liblog",
-                "libc++",
-                "libcutils",
-                "libhidlbase",
-                "libhwbinder",
-                "libutils",
-                "libhidlbase_shim",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "libvideofilter_only",
     owner: "xiaomi",
     strip: {
