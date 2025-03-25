@@ -597,7 +597,6 @@ PRODUCT_PACKAGES += \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
     libqtigef \
-    libsndmonitor \
     libspkrprot \
     libssrec \
     libwfdcodecv4l2_proprietary \
