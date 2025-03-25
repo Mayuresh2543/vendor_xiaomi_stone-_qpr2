@@ -557,7 +557,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
     libFileMux_proprietary \
-    liba2dpoffload \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -567,22 +566,17 @@ PRODUCT_PACKAGES += \
     libaudio_log_utils \
     libaudioconfigstore \
     libaudioparsers \
-    libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
-    libcomprcapture \
     libdrc \
-    libexthwplugin \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmiedid \
     libhdmipassthru \
-    libhfp \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
     libmmosal_vendor \
@@ -597,7 +591,6 @@ PRODUCT_PACKAGES += \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
     libqtigef \
-    libspkrprot \
     libssrec \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
