@@ -22708,6 +22708,7 @@ cc_prebuilt_binary {
                 "proprietary/vendor/bin/STFlashTool",
             ],
             shared_libs: [
+                "libbase_shim",
                 "libcutils",
                 "libutils",
                 "liblog",
